@@ -22,8 +22,9 @@ Signed integer: -1
 
 ## Char
 ### Input
-> Enter a lowercase char(a-z):
-a
+`> Enter a lowercase char(a-z):`
+
+`a`
 ### Output
 A
 
