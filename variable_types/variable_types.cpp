@@ -6,10 +6,10 @@ E-mail: burak.ozter@dal.ca
 #include <string>
 #include <iomanip>
 
-#define INTEGERS 1
-#define CHARS 1 
-#define PRECISION 1
-#define VOID 1
+#define INTEGERS
+#define CHARS
+#define PRECISION
+#define VOID
 
 using namespace std;
 
